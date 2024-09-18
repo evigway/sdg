@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3c9d36b-9a1d-4c89-add8-c37d9fd2a3aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/syntheticDataGeneration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9204dd00-5729-11eb-9cad-99ed2b254ebe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloaded_images/image_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/about.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2024-09-06_23-49-20/image_0_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2024-09-06_23-49-20/image_0_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2024-09-06_23-49-20/image_1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/legacy/generated_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/legacy/generated_image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/legacy/generated_image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/legacy/tank_image_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/legacy/tank_image_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/legacy/tank_image_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product_image_original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scratch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/similar_prompts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stablediffusion/checkpoints/v2-1_768-nonema-pruned.ckpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vq-vae-2-pytorch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vq-vae-2-pytorch/1906.00446v1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xformers/xformers/_C.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stablediffusion/ldm/modules/diffusionmodules/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/stablediffusion/ldm/modules/diffusionmodules/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled" beforeDir="false" afterPath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/batched_gemm_add_relu_gemm_add/device_batched_gemm_add_relu_gemm_add_xdl_cshuffle_f16_f16_f16_f16_gmk_gnk_gno_gmo_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/batched_gemm_add_relu_gemm_add/device_batched_gemm_add_relu_gemm_add_xdl_cshuffle_f16_f16_f16_f16_gmk_gnk_gon_gmo_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/batched_gemm_bias_permute/device_batched_gemm_bias_permute_m2_n3_k1_xdl_c_shuffle_f16_f16_f16_f16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/batched_gemm_softmax_gemm/device_batched_gemm_softmax_gemm_xdl_cshuffle_f16_f16_f16_f16_gmk_gnk_gno_gmo_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/batched_gemm_softmax_gemm_permute/device_batched_gemm_bias_softmax_gemm_permute_xdl_cshuffle_bf16_bf16_bf16_bf16_gmk_gnk_gno_gmo_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/batched_gemm_softmax_gemm_permute/device_batched_gemm_bias_softmax_gemm_permute_xdl_cshuffle_f16_f16_f16_f16_gmk_gnk_gno_gmo_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/batched_gemm_softmax_gemm_permute/device_batched_gemm_softmax_gemm_permute_xdl_cshuffle_bf16_bf16_bf16_bf16_gmk_gnk_gno_gmo_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/batched_gemm_softmax_gemm_permute/device_batched_gemm_softmax_gemm_permute_xdl_cshuffle_f16_f16_f16_f16_gmk_gnk_gno_gmo_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_bf16_bf16_bf16_bf16_compute_f32_kknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_bf16_bf16_bf16_bf16_compute_f32_knnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_bf16_bf16_bf16_bf16_compute_f32_mknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_bf16_bf16_bf16_bf16_compute_f32_mnnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f16_f16_f16_f16_compute_f32_kknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f16_f16_f16_f16_compute_f32_knnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f16_f16_f16_f16_compute_f32_mknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f16_f16_f16_f16_compute_f32_mnnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f32_f32_f32_f32_compute_bf16_kknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f32_f32_f32_f32_compute_bf16_knnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f32_f32_f32_f32_compute_bf16_mknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f32_f32_f32_f32_compute_bf16_mnnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f32_f32_f32_f32_compute_f16_kknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f32_f32_f32_f32_compute_f16_knnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f32_f32_f32_f32_compute_f16_mknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f32_f32_f32_f32_compute_f16_mnnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f64_f64_f64_f64_compute_f32_kknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f64_f64_f64_f64_compute_f32_knnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f64_f64_f64_f64_compute_f32_mknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/2D/device_contraction_bilinear_m2_n2_k2_xdl_c_shuffle_f64_f64_f64_f64_compute_f32_mnnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_bf16_bf16_bf16_bf16_compute_f32_kknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_bf16_bf16_bf16_bf16_compute_f32_knnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_bf16_bf16_bf16_bf16_compute_f32_mknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_bf16_bf16_bf16_bf16_compute_f32_mnnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f16_f16_f16_f16_compute_f32_kknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f16_f16_f16_f16_compute_f32_knnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f16_f16_f16_f16_compute_f32_mknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f16_f16_f16_f16_compute_f32_mnnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f32_f32_f32_f32_compute_bf16_kknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f32_f32_f32_f32_compute_bf16_knnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f32_f32_f32_f32_compute_bf16_mknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f32_f32_f32_f32_compute_bf16_mnnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f32_f32_f32_f32_compute_f16_kknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f32_f32_f32_f32_compute_f16_knnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f32_f32_f32_f32_compute_f16_mknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f32_f32_f32_f32_compute_f16_mnnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f64_f64_f64_f64_compute_f32_kknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f64_f64_f64_f64_compute_f32_knnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f64_f64_f64_f64_compute_f32_mknn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_bilinear/6D/device_contraction_bilinear_m6_n6_k6_xdl_c_shuffle_f64_f64_f64_f64_compute_f32_mnnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/2D/device_contraction_scale_m2_n2_k2_xdl_c_shuffle_bf16_bf16_bf16_compute_f32_kkn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/2D/device_contraction_scale_m2_n2_k2_xdl_c_shuffle_bf16_bf16_bf16_compute_f32_knn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/2D/device_contraction_scale_m2_n2_k2_xdl_c_shuffle_bf16_bf16_bf16_compute_f32_mkn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/2D/device_contraction_scale_m2_n2_k2_xdl_c_shuffle_bf16_bf16_bf16_compute_f32_mnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/2D/device_contraction_scale_m2_n2_k2_xdl_c_shuffle_f32_f32_f32_compute_bf16_kkn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/2D/device_contraction_scale_m2_n2_k2_xdl_c_shuffle_f32_f32_f32_compute_bf16_knn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/2D/device_contraction_scale_m2_n2_k2_xdl_c_shuffle_f32_f32_f32_compute_bf16_mkn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/2D/device_contraction_scale_m2_n2_k2_xdl_c_shuffle_f32_f32_f32_compute_bf16_mnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/6D/device_contraction_scale_m6_n6_k6_xdl_c_shuffle_bf16_bf16_bf16_compute_f32_kkn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/6D/device_contraction_scale_m6_n6_k6_xdl_c_shuffle_bf16_bf16_bf16_compute_f32_knn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/6D/device_contraction_scale_m6_n6_k6_xdl_c_shuffle_bf16_bf16_bf16_compute_f32_mkn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/6D/device_contraction_scale_m6_n6_k6_xdl_c_shuffle_bf16_bf16_bf16_compute_f32_mnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/6D/device_contraction_scale_m6_n6_k6_xdl_c_shuffle_f32_f32_f32_compute_bf16_kkn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/6D/device_contraction_scale_m6_n6_k6_xdl_c_shuffle_f32_f32_f32_compute_bf16_knn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/6D/device_contraction_scale_m6_n6_k6_xdl_c_shuffle_f32_f32_f32_compute_bf16_mkn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/contraction_scale/6D/device_contraction_scale_m6_n6_k6_xdl_c_shuffle_f32_f32_f32_compute_bf16_mnn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_add_add_fastgelu/device_gemm_add_add_fastgelu_xdl_c_shuffle_f16_f16_f16_f16_f16_km_kn_mn_mn_mn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_add_add_fastgelu/device_gemm_add_add_fastgelu_xdl_c_shuffle_f16_f16_f16_f16_f16_km_nk_mn_mn_mn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_add_add_fastgelu/device_gemm_add_add_fastgelu_xdl_c_shuffle_f16_f16_f16_f16_f16_mk_kn_mn_mn_mn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_add_add_fastgelu/device_gemm_add_add_fastgelu_xdl_c_shuffle_f16_f16_f16_f16_f16_mk_nk_mn_mn_mn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_bias_add_reduce/device_gemm_bias_add_mean_squaremean_xdl_cshuffle_f16_f16_f16_f32_f32_km_kn_mn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_bias_add_reduce/device_gemm_bias_add_mean_squaremean_xdl_cshuffle_f16_f16_f16_f32_f32_km_nk_mn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_bias_add_reduce/device_gemm_bias_add_mean_squaremean_xdl_cshuffle_f16_f16_f16_f32_f32_mk_kn_mn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_bias_add_reduce/device_gemm_bias_add_mean_squaremean_xdl_cshuffle_f16_f16_f16_f32_f32_mk_nk_mn_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_kn_mn_comp_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_kn_mn_comp_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_kn_mn_comp_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_kn_mn_comp_mnpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_kn_mn_mem_v1_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_kn_mn_mem_v1_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_kn_mn_mem_v1_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_kn_mn_mem_v2_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_kn_mn_mem_v2_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_kn_mn_mem_v2_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_nk_mn_comp_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_nk_mn_comp_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_nk_mn_comp_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_nk_mn_comp_mnpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_nk_mn_mem_v1_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_nk_mn_mem_v1_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_nk_mn_mem_v1_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_nk_mn_mem_v2_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_nk_mn_mem_v2_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_bf16_bf16_bf16/device_gemm_xdl_universal_bf16_bf16_bf16_mk_nk_mn_mem_v2_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_kn_mn_comp_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_kn_mn_comp_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_kn_mn_comp_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_kn_mn_comp_mnpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_kn_mn_mem_v1_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_kn_mn_mem_v1_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_kn_mn_mem_v1_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_kn_mn_mem_v2_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_kn_mn_mem_v2_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_kn_mn_mem_v2_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_nk_mn_comp_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_nk_mn_comp_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_nk_mn_comp_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_nk_mn_comp_mnpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_nk_mn_mem_v1_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_nk_mn_mem_v1_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_nk_mn_mem_v1_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_nk_mn_mem_v2_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_nk_mn_mem_v2_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f16_f16/device_gemm_xdl_universal_f16_f16_f16_mk_nk_mn_mem_v2_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_kn_mn_comp_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_kn_mn_comp_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_kn_mn_comp_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_kn_mn_comp_mnpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_kn_mn_mem_v1_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_kn_mn_mem_v1_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_kn_mn_mem_v1_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_kn_mn_mem_v2_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_kn_mn_mem_v2_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_kn_mn_mem_v2_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_nk_mn_comp_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_nk_mn_comp_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_nk_mn_comp_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_nk_mn_comp_mnpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_nk_mn_mem_v1_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_nk_mn_mem_v1_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_nk_mn_mem_v1_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_nk_mn_mem_v2_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_nk_mn_mem_v2_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f16_f8_f16/device_gemm_xdl_universal_f16_f8_f16_mk_nk_mn_mem_v2_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_kn_mn_comp_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_kn_mn_comp_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_kn_mn_comp_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_kn_mn_comp_mnpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_kn_mn_mem_v1_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_kn_mn_mem_v1_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_kn_mn_mem_v1_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_kn_mn_mem_v2_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_kn_mn_mem_v2_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_kn_mn_mem_v2_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_nk_mn_comp_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_nk_mn_comp_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_nk_mn_comp_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_nk_mn_comp_mnpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_nk_mn_mem_v1_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_nk_mn_mem_v1_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_nk_mn_mem_v1_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_nk_mn_mem_v2_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_nk_mn_mem_v2_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/gemm_universal/device_gemm_xdl_universal_f8_f16_f16/device_gemm_xdl_universal_f8_f16_f16_mk_nk_mn_mem_v2_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv2d_bwd_weight/xdl/device_grouped_conv2d_bwd_weight_two_stage_xdl_nhwgc_gkyxc_nhwgk_f16_pipev2_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv2d_bwd_weight/xdl/device_grouped_conv2d_bwd_weight_two_stage_xdl_nhwgc_gkyxc_nhwgk_f16_pipev5_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_data/wmma/device_grouped_conv3d_bwd_data_wmma_gndhwc_gkzyxc_gndhwk_f16_1x1s1p0_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_data/wmma/device_grouped_conv3d_bwd_data_wmma_ndhwgc_gkzyxc_ndhwgk_f16_1x1s1p0_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_data/xdl/device_grouped_conv3d_bwd_data_xdl_ndhwgc_gkzyxc_ndhwgk_input_f16_comp_bf8_f8_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_data_bilinear/xdl/device_grouped_conv3d_bwd_data_xdl_bilinear_ndhwgc_gkzyxc_ndhwgk_bf16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_data_bilinear/xdl/device_grouped_conv3d_bwd_data_xdl_bilinear_ndhwgc_gkzyxc_ndhwgk_f16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_data_bilinear/xdl/device_grouped_conv3d_bwd_data_xdl_bilinear_ndhwgc_gkzyxc_ndhwgk_f32_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_data_scale/xdl/device_grouped_conv3d_bwd_data_xdl_scale_ndhwgc_gkzyxc_ndhwgk_bf16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_data_scale/xdl/device_grouped_conv3d_bwd_data_xdl_scale_ndhwgc_gkzyxc_ndhwgk_f16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_data_scale/xdl/device_grouped_conv3d_bwd_data_xdl_scale_ndhwgc_gkzyxc_ndhwgk_f32_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight/wmma/device_grouped_conv3d_bwd_weight_wmma_gndhwc_gkzyxc_gndhwk_f16_1x1s1p0_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight/wmma/device_grouped_conv3d_bwd_weight_wmma_gndhwc_gkzyxc_gndhwk_i8_1x1s1p0_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight/wmma/device_grouped_conv3d_bwd_weight_wmma_ndhwgc_gkzyxc_ndhwgk_f16_1x1s1p0_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight/wmma/device_grouped_conv3d_bwd_weight_wmma_ndhwgc_gkzyxc_ndhwgk_i8_1x1s1p0_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight/xdl/device_grouped_conv3d_bwd_weight_two_stage_xdl_ndhwgc_gkzyxc_ndhwgk_f16_pipev2_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight/xdl/device_grouped_conv3d_bwd_weight_two_stage_xdl_ndhwgc_gkzyxc_ndhwgk_f16_pipev5_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight/xdl/device_grouped_conv3d_bwd_weight_xdl_ndhwgc_gkzyxc_ndhwgk_f16_comp_bf8_fp8_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight_bilinear/xdl/device_grouped_conv3d_bwd_weight_xdl_bilinear_ndhwgc_gkzyxc_ndhwgk_bf16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight_bilinear/xdl/device_grouped_conv3d_bwd_weight_xdl_bilinear_ndhwgc_gkzyxc_ndhwgk_f16_comp_bf8_fp8_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight_bilinear/xdl/device_grouped_conv3d_bwd_weight_xdl_bilinear_ndhwgc_gkzyxc_ndhwgk_f16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight_bilinear/xdl/device_grouped_conv3d_bwd_weight_xdl_bilinear_ndhwgc_gkzyxc_ndhwgk_f32_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight_scale/xdl/device_grouped_conv3d_bwd_weight_xdl_scale_ndhwgc_gkzyxc_ndhwgk_bf16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight_scale/xdl/device_grouped_conv3d_bwd_weight_xdl_scale_ndhwgc_gkzyxc_ndhwgk_f16_comp_bf8_fp8_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight_scale/xdl/device_grouped_conv3d_bwd_weight_xdl_scale_ndhwgc_gkzyxc_ndhwgk_f16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_bwd_weight_scale/xdl/device_grouped_conv3d_bwd_weight_xdl_scale_ndhwgc_gkzyxc_ndhwgk_f32_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_fwd_convinvscale/xdl/device_grouped_conv3d_fwd_xdl_convinvscale_ndhwgc_gkzyxc_ndhwgk_f8_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_fwd_convscale/xdl/device_grouped_conv3d_fwd_xdl_convscale_ndhwgc_gkzyxc_ndhwgk_f8_bf8_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_fwd_scaleadd_ab/xdl/device_grouped_conv3d_fwd_xdl_scaleadd_ab_ndhwgc_gkzyxc_ndhwgk_bf16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_fwd_scaleadd_ab/xdl/device_grouped_conv3d_fwd_xdl_scaleadd_ab_ndhwgc_gkzyxc_ndhwgk_f16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_fwd_scaleadd_ab/xdl/device_grouped_conv3d_fwd_xdl_scaleadd_ab_ndhwgc_gkzyxc_ndhwgk_f32_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_fwd_scaleadd_ab/xdl/device_grouped_conv3d_fwd_xdl_scaleadd_ab_ndhwgc_gkzyxc_ndhwgk_int8_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_fwd_scaleadd_scaleadd_relu/xdl/device_grouped_conv3d_fwd_xdl_scaleadd_scaleadd_relu_ndhwgc_gkzyxc_ndhwgk_bf16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_fwd_scaleadd_scaleadd_relu/xdl/device_grouped_conv3d_fwd_xdl_scaleadd_scaleadd_relu_ndhwgc_gkzyxc_ndhwgk_f16_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_fwd_scaleadd_scaleadd_relu/xdl/device_grouped_conv3d_fwd_xdl_scaleadd_scaleadd_relu_ndhwgc_gkzyxc_ndhwgk_f32_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_conv3d_fwd_scaleadd_scaleadd_relu/xdl/device_grouped_conv3d_fwd_xdl_scaleadd_scaleadd_relu_ndhwgc_gkzyxc_ndhwgk_int8_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bf16_i8_bf16_mk_kn_mn_comp_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bf16_i8_bf16_mk_kn_mn_comp_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bf16_i8_bf16_mk_kn_mn_comp_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bf16_i8_bf16_mk_kn_mn_comp_mnpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bf16_i8_bf16_mk_kn_mn_mem_v1_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bf16_i8_bf16_mk_kn_mn_mem_v1_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bf16_i8_bf16_mk_kn_mn_mem_v1_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bf16_i8_bf16_mk_kn_mn_mem_v1_mnpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bf16_i8_bf16_mk_kn_mn_mem_v2_default_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bf16_i8_bf16_mk_kn_mn_mem_v2_kpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bf16_i8_bf16_mk_kn_mn_mem_v2_mnkpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bf16_i8_bf16_mk_kn_mn_mem_v2_mnpadding_instance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/grouped_gemm_tile_loop/device_grouped_gemm_xdl_tile_loop_multiply_bias_fastgelu_bf16_i8_bf16_mk_kn_mn_instance.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2k04hc7baeemuPWKEMUuUhMDka0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.inference.executor": "Run",
+    "Python.similar_prompts.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/evig0/PycharmProjects/Ongoing/syntheticDataGeneration"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "IntegrationPerformanceTest",
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\evig0\PycharmProjects\Ongoing\syntheticDataGeneration" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\evig0\PycharmProjects\Ongoing\syntheticDataGeneration\output\old" />
+      <recent name="C:\Users\evig0\PycharmProjects\Ongoing\syntheticDataGeneration\output" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3c9d36b-9a1d-4c89-add8-c37d9fd2a3aa" name="Changes" comment="" />
+      <created>1722407280770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722407280770</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
