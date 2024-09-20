@@ -5,67 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3c9d36b-9a1d-4c89-add8-c37d9fd2a3aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/syntheticDataGeneration.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9204dd00-5729-11eb-9cad-99ed2b254ebe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloaded_images/image_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/about.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/2024-09-06_23-49-20/image_0_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/2024-09-06_23-49-20/image_0_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/2024-09-06_23-49-20/image_1_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/legacy/generated_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/legacy/generated_image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/legacy/generated_image3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/legacy/tank_image_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/legacy/tank_image_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/legacy/tank_image_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product_image_original.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scratch.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similar_prompts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/stablediffusion/checkpoints/v2-1_768-nonema-pruned.ckpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vq-vae-2-pytorch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/vq-vae-2-pytorch/1906.00446v1.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/xformers/xformers/_C.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stablediffusion" beforeDir="false" afterPath="$PROJECT_DIR$/stablediffusion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stablediffusion/ldm/modules/diffusionmodules/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/stablediffusion/ldm/modules/diffusionmodules/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vq-vae-2-pytorch" beforeDir="false" afterPath="$PROJECT_DIR$/vq-vae-2-pytorch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xformers" beforeDir="false" afterPath="$PROJECT_DIR$/xformers" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled" beforeDir="false" afterPath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/batched_gemm_add_relu_gemm_add/device_batched_gemm_add_relu_gemm_add_xdl_cshuffle_f16_f16_f16_f16_gmk_gnk_gno_gmo_instance.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/xformers/third_party/composable_kernel_tiled/library/src/tensor_operation_instance/gpu/batched_gemm_add_relu_gemm_add/device_batched_gemm_add_relu_gemm_add_xdl_cshuffle_f16_f16_f16_f16_gmk_gnk_gon_gmo_instance.cpp" beforeDir="false" />
@@ -295,23 +244,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.inference.executor": "Run",
-    "Python.similar_prompts.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/evig0/PycharmProjects/Ongoing/syntheticDataGeneration"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.inference.executor&quot;: &quot;Run&quot;,
+    &quot;Python.similar_prompts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/evig0/PycharmProjects/Ongoing/syntheticDataGeneration&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "IntegrationPerformanceTest",
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;IntegrationPerformanceTest&quot;,
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\evig0\PycharmProjects\Ongoing\syntheticDataGeneration" />
